@@ -1,7 +1,7 @@
 # Artigo-Profissional
 Gerando um Artigo de qualidade
 <p align="center">
-    <img width="100" src=".github/assets/banner.png">
+    <img width="100" src=""C:\Users\Samsung\Downloads\Black and White Simple Photography HTML For Beginners YouTube Thumbnail.png"">
 </p>
 
 
